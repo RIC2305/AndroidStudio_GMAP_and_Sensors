@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Proyecto_Android_GMaps_y_Sensores_Temp_Hum_Java</string>
+    <string name="texto_cabcera">El tiempo en mi ubicación</string>
+</resources>
